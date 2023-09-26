@@ -1,6 +1,15 @@
 def multiply_all(*args):
+    """
+    Multiplies all the given numbers together and returns the product.
+
+    Parameters:
+        *args (float or int): Variable number of arguments to be multiplied.
+
+    Returns:
+        float or int: The product of all the given numbers.
+    """
     # TODO: Implementiere die Funktion
-    pass
+    ...
 
 
 if __name__ == '__main__':
