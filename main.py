@@ -1,12 +1,8 @@
-def calculate():
-    """
-    calculates the total
-    :return: None
-    """
-    price = 15.75
-    quantity = 3  # TODO change quantity to 5
-    print(f'Total: {price * quantity}')
+def multiply_all(*args):
+    # TODO: Implementiere die Funktion
+    pass
 
 
 if __name__ == '__main__':
-    calculate()
+    # Teste deine Funktion
+    print(multiply_all(1, 2, 3))  # Erwarteter Output: 6
