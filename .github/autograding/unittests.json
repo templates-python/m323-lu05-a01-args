@@ -1,0 +1,26 @@
+[
+  {
+    "name": "test_multiply_all_no_args",
+    "function": "test_multiply_all_no_args",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_multiply_all_single_arg",
+    "function": "test_multiply_all_single_arg",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_multiply_all_multiple_args",
+    "function": "test_multiply_all_multiple_args",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_multiply_all_with_zero",
+    "function": "test_multiply_all_with_zero",
+    "timeout": 10,
+    "points": 1
+  }
+]
