@@ -1,3 +1,8 @@
+"""Verwendung von *args in Funktionen.
+
+Aufgabenstellung: https://wiki.bzz.ch/modul/m323/learningunits/lu05/aufgaben/args
+"""
+
 def multiply_all(*args):
     """
     Multiplies all the given numbers together and returns the product.
